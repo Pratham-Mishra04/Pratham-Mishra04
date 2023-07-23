@@ -2,7 +2,7 @@
 
 **`Full Stack Web Developer | Third Year Student at VIT Vellore`**
 
-*Dont forget to checkout My Latest Project* - **Interact  <a href="https://interactnow.in/signup" target="_blank">`( Link to Project )`</a>**
+*Dont forget to checkout My Latest Project* - **Interact  <a href="https://interactnow.in/signup" target="_blank">`( Link to Website )`</a>**
 
 ```go
 package main
