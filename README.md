@@ -14,9 +14,10 @@ func (me *FullStackDeveloper) sayHi() {
 func main() {
     me := FullStackDeveloper{
         name:          "Pratham Mishra",
-        role:          "Full Stack Web Developer",
-        languages:     []string{"GoLang, TypeScript, Python"},
-        frameworks:    []string{"Go Fiber, Next Js, Express Js"},
+        role:          "Full Stack Web Developer & Machine Learning Enthusiast ",
+        languages:     []string{"GoLang", "TypeScript", "Python"},
+        frameworks:    []string{"Go Fiber", "Next Js", "Express Js"},
+        ML:            []string{"Scikit Learn", "TensorFlow", "NLTK"}
     }
     me.sayHi()
 }
