@@ -1,6 +1,6 @@
 # Pratham Mishra <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="25px">
 
-**`Full Stack Web Developer | Third Year Student at VIT Vellore`**
+**`Full Stack Web Developer & Machine Learning Enthusiast | Third Year Student at VIT Vellore`**
 
 *Dont forget to checkout My Latest Project* - **Interact  <a href="https://interactnow.in/signup" target="_blank">`( Link to Website )`</a>**
 
