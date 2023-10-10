@@ -7,12 +7,12 @@
 ```go
 package main
 
-func (me *FullStackDeveloper) sayHi() {
+func (me *Me) sayHi() {
     fmt.Println("Well, well, well... What do we have here? It's a curious visitor on my profile! 😁🔍")
 }
 
 func main() {
-    me := FullStackDeveloper{
+    me := Me{
         name:          "Pratham Mishra",
         role:          "Full Stack Web Developer & Machine Learning Enthusiast",
         languages:     []string{"GoLang", "TypeScript", "Python"},
