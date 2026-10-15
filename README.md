@@ -1,6 +1,6 @@
 # Pratham Mishra
 
-<a href="https://trendshift.io/developers/12706?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-12706" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/12706" alt="Pratham-Mishra04 | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/developers/12706" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/12706" alt="Pratham-Mishra04 | Trendshift" width="250" height="55"/></a>
 
 **Systems Engineer | Maintainer of [Bifrost](https://github.com/maximhq/bifrost) | Engineering @ Maxim AI**
 
